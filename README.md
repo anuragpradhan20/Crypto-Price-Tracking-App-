@@ -1,3 +1,4 @@
+ Crypto Price Tracking App  URL: https://crypto-price-tracking-app-blush.vercel.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
